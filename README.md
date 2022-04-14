@@ -1,11 +1,10 @@
 ### Hello earthlings! 👋
 
->Upon this site, i have built my lab.\
-This is where i will be making different concoctions of technology.\
-Not afraid of things that may blow up in my face.\
-Bcoz i am always focused on converting the ordinary to pure gold.\
-My only motto in life is to create things that are simple, useful and attractive.\
-For me, the only constant is learning.
+>My name is Tejas. \
+I have experience in developing applications in python.
+Currently i am working with rust.
+Wanna become a teacher in the future.
+For me, the only constant has always been learning.
 
 ✨ ✨ ✨ I am interested in astronomy, mathematics and anime.
 
