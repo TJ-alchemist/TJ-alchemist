@@ -1,10 +1,10 @@
 ### Hello earthlings! 👋
 
 >My name is Tejas. \
-I have experience in developing applications in python.
-Currently i am working with rust.
-Wanna become a teacher in the future.
-For me, the only constant has always been learning.
+I have experience in developing applications in python. \
+Currently i am working with rust. \
+Wanna become a teacher in the future. \
+For me, the only constant has always been learning. \
 
 ✨ ✨ ✨ I am interested in astronomy, mathematics and anime.
 
