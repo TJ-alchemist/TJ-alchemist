@@ -1,16 +1,13 @@
 ### Hello earthlings! 👋
 
->My name is Tejas. \
-I have experience in developing applications in python. \
-Currently i am working with rust. \
-Wanna become a teacher in the future. \
-For me, the only constant has always been learning.
+>My name is Tejas \
+I am a backend engineer \
+I love working with software \
+For me, the only constant has always been learning
 
-✨ ✨ ✨ I am interested in astronomy, mathematics and anime.
+✨ ✨ ✨ I am interested in learning the fundamentals of software and am also into anime
 
-- 🔭 I’m currently working in data science and blockchain.
-- 🌱 I’m currently learning rust programming.
-- 👯 I’m looking to collaborate on something which would be useful to many people.
-- 🤔 I’m looking for help with procrastination. Though it proves useful at times.
-- 💬 Ask me about mythology.
-- ⚡ Fun fact: I am batman!! 😜
+- 👯 I like to collaborate on something interesting
+- 🤔 I do procrastinate sometimes as it has helped me in understanding concepts before
+- 💬 Like to read about Indian, Greek and other mythologies
+- ⚡ I am making **[Neovim](https://neovim.io/)** as my main editor. Its superrr...!!! ⭐
